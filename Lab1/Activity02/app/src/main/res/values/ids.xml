@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ears" type="id" />
+    <item name="checkBody" type="id" />
+</resources>
